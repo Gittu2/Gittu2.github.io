@@ -1,0 +1,54 @@
+@media screen and (max-width:980px){
+    .logo {
+        width: 100%;
+        float: none;
+        text-align: center;
+        
+
+
+    }
+    .logo img{
+        width: 30%;
+        padding-top:5px ;
+        
+    }
+    .login{
+        
+        width: 500px;
+        margin: 2px auto;
+        float: none;
+        
+
+    }
+    .login form{
+        float: none;
+        
+        
+
+    }
+
+
+}
+@media screen and (max-width:700px){
+    .login .email,
+    .login .pass,
+    .login .sub {
+        float: none;
+        margin-right: 0;
+        
+    }
+    .login form{
+        float: none;
+        margin: 0, auto;
+        
+    }
+    .login{
+        width: 70%;
+        border: 1px solid #365899 ;
+
+    }
+    .login input {
+        width: 100%;
+    }
+
+}

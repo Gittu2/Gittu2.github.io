@@ -1,0 +1,90 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.header{
+    background-color: #3F5D9A;
+    overflow: hidden;
+    padding: 15px;
+}
+.container{
+    width: 70%;
+    margin: auto;
+}
+.logo{
+    width: 30%;
+    float: left;
+
+}
+.logo img{
+    width: 63%;
+    padding-top: 8px;
+}
+.login form{
+    float: right;
+}
+.login{
+    width: 70%;
+    float: left;
+}
+.login label,
+.login input{
+    display: block;
+}
+.login .email,
+.login .pass,
+.login .sub {
+    float: left;
+    margin-right: 10px;
+}
+.login .sub{
+    margin-right: 0;
+}
+.login {
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+
+}
+.login div:nth-child(3){
+    margin-top: 15px;
+    margin-left: 14px;
+}
+.login input{
+    border: 1px solid rgba(0, 0, 0, 0.39);
+}
+
+.login .pass a{
+    text-decoration: none;
+    color: blanchedalmond;
+}
+.login .sub input{
+    background-color:#365899 ;
+    color: #FFDBBA;
+    
+    padding: 3px 5px;
+}
+.login form{
+    margin: 2px 4px;
+}
+.login .pass a:hover{
+    
+    text-decoration: underline;
+}
+.login .pass input  {
+    margin-bottom: 4px;
+    
+}
+.right {
+    width: 55%;
+    float: left;
+
+}
+.left{
+    width: 45%;
+    float: right;
+}
+.container{
+    margin 
+}

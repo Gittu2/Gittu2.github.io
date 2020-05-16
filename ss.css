@@ -1,0 +1,12 @@
+.ash{
+    background: red;
+    width: 300px;
+    height: 200px;
+}
+
+
+@media screen and (max-width:480px){
+    .ash{
+        background: black;
+    }
+}
